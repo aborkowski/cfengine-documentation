@@ -38,8 +38,8 @@ hub, Operations Team <ops@cfengine.com>
 host001, Development <dev@cfengine.com>
 ```
 
-**Note:** I am using the [CFEngine Enterprise Vagrant Environment][Installing
-Enterprise Vagrant Environemt] and files located in the vagrant project
+**Note:** I am using the [Vagrant Environment][Using Vagrant]
+and files located in the vagrant project
 directory are automatically available to all hosts.
 
 
